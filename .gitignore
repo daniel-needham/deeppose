@@ -1,0 +1,4 @@
+# Ignore venv folder
+.venv/
+FLIC.zip
+lsp/
